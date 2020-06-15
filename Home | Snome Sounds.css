@@ -42,8 +42,8 @@ body {
 }
 
 html {
-  background-image: url("Img/Snome Logo Project (Background).png");
-  background-size: cover;
+  /*background-image: url("Img/Snome Logo Project (Background).png");
+  */background-size: cover;
   background-color: black;
   background-position: center;
   text-align: center;
