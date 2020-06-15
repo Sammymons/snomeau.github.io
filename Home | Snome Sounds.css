@@ -1,5 +1,5 @@
-/* I found how to do comments */
-/* faded white = rgba(255, 255, 255, 0.7);*/
+ /*I found how to do comments
+ faded white = rgba(255, 255, 255, 0.7);*/
 * {
   box-sizing: border-box;
 }
@@ -42,8 +42,8 @@ body {
 }
 
 html {
-  /*background-image: url("Img/Snome Logo Project (Background).png");
-  */background-size: cover;
+  background-image: url("Img/Snome Logo Project (Background).png");
+  background-size: cover;
   background-color: black;
   background-position: center;
   text-align: center;
@@ -73,8 +73,8 @@ h6 {
 header {
   border-bottom: 5px groove gray;
   position: fixed;
-  /*background-image: url("Img/Snome Logo Project (Website Inverted).png");
-  */background-size: cover;
+  background-image: url("Img/Snome Logo Project (Website Inverted).png");
+  background-size: cover;
   background-color: black;
   background-position: center;
   background-attachment: fixed;
@@ -196,8 +196,8 @@ img {
 }
 
 #music {
-  /*background-image: url("Img/Snome Logo Project (Website Inverted).png");
-  */background-size: cover;
+  background-image: url("Img/Snome Logo Project (Website Inverted).png");
+  background-size: cover;
   background-color: black;
   background-position: center;
   background-attachment: fixed;
@@ -239,8 +239,8 @@ img {
   align-content: center;
   margin: 0, auto;
   margin-top: 200px;
-  /*background-image: url("Img/Snome Logo Project (Website Inverted).png");
-  */background-size: cover;
+  background-image: url("Img/Snome Logo Project (Website Inverted).png");
+  background-size: cover;
   background-color: black;
   background-position: center;
   background-attachment: fixed;
