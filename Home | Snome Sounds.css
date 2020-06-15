@@ -42,7 +42,9 @@ body {
 }
 
 html {
+  /*
   background-image: url("Img/Snome Logo Project (Background).png");
+*/
   background-size: cover;
   background-color: black;
   background-position: center;
@@ -73,7 +75,9 @@ h6 {
 header {
   border-bottom: 5px groove gray;
   position: fixed;
+/*
   background-image: url("Img/Snome Logo Project (Website Inverted).png");
+*/
   background-size: cover;
   background-color: black;
   background-position: center;
@@ -196,7 +200,9 @@ img {
 }
 
 #music {
+  /*
   background-image: url("Img/Snome Logo Project (Website Inverted).png");
+*/
   background-size: cover;
   background-color: black;
   background-position: center;
@@ -239,7 +245,9 @@ img {
   align-content: center;
   margin: 0, auto;
   margin-top: 200px;
+  /*
   background-image: url("Img/Snome Logo Project (Website Inverted).png");
+*/
   background-size: cover;
   background-color: black;
   background-position: center;
